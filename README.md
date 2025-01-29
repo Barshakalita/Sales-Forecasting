@@ -1,0 +1,1 @@
+This project analyzes the impact of different advertising channels (TV, Radio, Social Media, and Influencers) on sales. Using machine learning models, we predict sales based on various advertising investments.
